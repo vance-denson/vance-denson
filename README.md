@@ -3,14 +3,13 @@
 Currently improving on my NextJS/React and Tailwind skills!
 
 Tech Known:
-* TypeScrpt / Javascript / HTML / CSS
-* React / NextJS (for SSG/SSR) / Tailwind
+* Javascript / HTML / CSS
+* React / NextJS (for SSG/SSR) / (some) Angular
 * Automation: Selenium, PyAutoGUI, PyWinAuto, batch/bash shell scripting
 * Java / JavaFX / Spring MVC
-* RF (CWNA level)
 * Bluetooth, Wi-Fi, Zigbee protocol and testing
 * Cisco Networking (OSI TCP/IP protocol)
 
-Resume / Current Project Site: 
+Resume / Current Project Site:  [www.linkedin.com/in/vance-denson]  www.linkedin.com/in/vance-denson
 
 LinkedIn: 
