@@ -1,4 +1,8 @@
 👋
+Check out my website:
+- SSR/SSG! (NextJS)
+- Headless CMS using ![GraphQL](https://graphql.org/img/logo.svg "GraphQL") (GraphQL)[https://graphql.org/], (Sanity.io)[sanity.io],
+- Markdown 
 
 Currently improving on my NextJS/React and Tailwind skills!
 
