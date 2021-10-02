@@ -5,7 +5,7 @@ Check out my latest website!
 
 This is a clean new repo I'm starting, decided to start fresh and keep *mostly* web-dev
 
-![React](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fofficel%2F2x%2Freact.png&f=1&nofb=1) ![Heart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femojipedia-us.s3.dualstack.us-west-1.amazonaws.com%2Fthumbs%2F60%2Femojidex%2F59%2Fflexed-biceps_1f4aa.png&f=1&nofb=1)
+![Rocket](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fwhsr-january-flaticon-set%2F128%2Frocket.png&f=1&nofb=1) ![React](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fofficel%2F2x%2Freact.png&f=1&nofb=1) ![Heart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femojipedia-us.s3.dualstack.us-west-1.amazonaws.com%2Fthumbs%2F60%2Femojidex%2F59%2Fflexed-biceps_1f4aa.png&f=1&nofb=1)
 
 ---
 
