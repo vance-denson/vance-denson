@@ -3,6 +3,8 @@ Check out my latest website!
 
 [ECNAV-VANCE](https://ecnav.net)
 
+This is a clean new repo I'm starting decided to start fresh and keep *mostly* web-dev.
+
 Roadmap (updated 09-21):
 - Finish SEO & get lighthouse performance metrics to (close to) 100%
 - Finish animations
