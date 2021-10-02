@@ -1,7 +1,7 @@
 👋
 Check out my website:
 
-("https://ecnav.net")[ECVAN - VANCE . NET]
+[ECNAV-VANCE](https://ecnav.net)
 
 Working on converting to this site to TypeScript!
 
