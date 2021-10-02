@@ -1,5 +1,6 @@
 👋
-Check out my latest website:
+Check out my latest website!
+
 [ECNAV-VANCE](https://ecnav.net)
 
 Roadmap (updated 09-21):
