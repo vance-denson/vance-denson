@@ -1,8 +1,7 @@
 👋
 Check out my website:
 
-- SSR/SSG! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Tpo0do4FnIyuhxRRUnFWjwHaHA%26pid%3DApi&f=1" alt="React" width="16px">*React[https://reactjs.org/] app of the <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xJw2stFyQ5ktHNXVBxbOIAHaBx%26pid%3DApi&f=1" alt="NextJS" width="24px">[https://nextjs.org/] flavor! Made using:
-- - [sanity.io] Headless CMS, Markdown for content, TailwindCSS, framer-motion, <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="16px" />GraphQL[https://graphql.org/]
+("https://ecnav.net")[ECVAN - VANCE . NET]
 
 Working on converting to this site to TypeScript!
 
