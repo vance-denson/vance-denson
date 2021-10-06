@@ -3,7 +3,7 @@ Check out my latest website!
 
 [ECNAV-VANCE](https://ecnav.net)
 
-Some of the code is [HERE](https://github.com/vance-denson/fullstack_ecnav.net)
+See the code [HERE](https://github.com/vance-denson/fullstack_ecnav.net)
 
 This is a clean new github account I'm starting, decided to start fresh and keep *mostly* web-dev
 
